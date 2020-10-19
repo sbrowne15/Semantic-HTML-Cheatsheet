@@ -1,0 +1,25 @@
+head,
+body,
+footer {
+  background-color: AliceBlue;
+  color: DarkSlateGray;
+  font-family: Verdana;
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+.tag {
+  background-color: WhiteSmoke;
+  font-family: Courier;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.center {
+  text-align: center;
+}
